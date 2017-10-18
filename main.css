@@ -1,0 +1,23 @@
+body {
+	width:100%;
+	height:100vh;
+	background: url('assets/freedom.jpg')no-repeat center;
+	background-size:cover;
+	
+}
+#wrapper {
+	width:85%;
+	margin: 0 auto;
+	text-align:center;
+	padding-top:5rem;
+	font-family: 'Oxygen', sans-serif;
+	color:#333;
+}
+#quotation {
+	font-size:3rem;
+	text-transform:uppercase;
+}
+#author {
+	font-size:1.5rem;
+	font-style:italic;
+}
